@@ -1,0 +1,2 @@
+defmodule AlicePersonable do
+end
